@@ -1,13 +1,14 @@
-# German-English Translator with OpenAI Integration
+# German-English Translator & Flashcards with OpenAI Integration
 
-This code allows you to input German words or sentences and get their English translations using OpenAI's GPT-3.5 Turbo model. The translated entries are saved to separate markdown files based on whether they're individual words or sentences.
+This tool allows you to input German words or sentences and get their English translations using OpenAI's GPT-3.5 Turbo model. Additionally, you can use the flashcards functionality to test your knowledge. The translated entries are saved to separate markdown files based on whether they're individual words or sentences.
 
 ## 🚀 Features:
 
-- 📝 Translation of individual German words with grammatical categories and gender.
-- 📜 Translation of German sentences.
-- 💾 Saving translations to markdown files.
-- ⚙️ Overwriting existing entries if desired.
+- 📝 **Translation of individual German words** with grammatical categories and gender.
+- 📜 **Translation of German sentences**.
+- 💾 **Saving translations to markdown files**.
+- ⚙️ **Overwriting existing entries** if desired.
+- 🃏 **Interactive flashcards** to test your knowledge.
 
 ## 🔧 Pre-requisites:
 
@@ -23,17 +24,18 @@ This code allows you to input German words or sentences and get their English tr
 
 ## 🖥 Usage:
 
-1. Run the script with `node <filename>.js`.
+### For Translations:
+
+1. Run the script with `node translation.js`.
 2. If you haven't hard-coded your OpenAI API key in the script, you'll be prompted to enter it.
-3. You will then be presented with three choices:
-   - `word`: Enter a German word for translation.
-   - `sentence`: Enter a German sentence for translation.
-   - `exit`: Exit the application.
-4. Based on your choice, input the German word or sentence.
-5. The translation will be fetched and displayed. You'll have an option to confirm if the translation is correct.
-6. If the translation is not correct, you can provide the correct one.
-7. The entry will then be saved to a markdown file (`wordlist.md` for words, `sentences.md` for sentences).
-8. If an entry already exists in the markdown file, you will be asked if you want to overwrite it.
+3. Follow the on-screen prompts to get translations.
+
+### For Flashcards:
+
+1. Run the script with `node flashcard.js`.
+2. The script will randomly display either German or English words or sentences from your markdown files.
+3. Say the translation out loud and press any key when you're ready to see the correct answer.
+4. You can continue with more flashcards or type "quit" to exit.
 
 ## 📝 Notes:
 
@@ -43,7 +45,7 @@ This code allows you to input German words or sentences and get their English tr
 
 ## 🛠 Troubleshooting:
 
-1. If you get an "Unexpected format from OpenAI response." error, ensure that the OpenAI API's response format has not changed since the code's last update.
-2. If the script fails to write to the markdown files, ensure you have the necessary permissions in the directory.
+- If you get an "Unexpected format from OpenAI response." error, ensure that the OpenAI API's response format has not changed since the code's last update.
+- If the script fails to write to the markdown files, ensure you have the necessary permissions in the directory.
 
-💬 Enjoy translating and building your German-English word and sentence list!
+💬 **Enjoy translating and building your German-English word and sentence list, and testing your knowledge with the flashcards!**
