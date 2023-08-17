@@ -1,9 +1,35 @@
-German Sentences:
+# German Sentences:
 
-- Gehst du gleich in den Supermarkt: Are you going to the supermarket shortly?
-- Ja, ich habe eine Frage für Sie: Yes, I have a question for you
-- Mein Mann schläft besser im Urlaub: My husband sleeps better on vacation
-- Sind die Koffer schon voll?: Are the suitcases already full?
-- Welchen Badeanzug möchtest du kaufen?: Which swimsuit would you like to buy?
-- Ich laufe im November einen Marathon: I am running a marathon in November
-- Die nächste Station ist Münchin: The next station is Munich
+- **Gehst du gleich in den Supermarkt?** Are you going to the supermarket shortly?
+- **Ja, ich habe eine Frage für Sie.** Yes, I have a question for you.
+- **Mein Mann schläft besser im Urlaub.** My husband sleeps better on vacation.
+- **Sind die Koffer schon voll?** Are the suitcases already full?
+- **Welchen Badeanzug möchtest du kaufen?** Which swimsuit would you like to buy?
+- **Ich laufe im November einen Marathon.** I am running a marathon in November.
+- **Die nächste Station ist München.** The next station is Munich.
+- **Wie kannst du weniger als sechs Stunden schlafen?** How can you sleep less than six hours?
+- **Ich schlafe nachts weniger als drei Stunden.**
+- **Trink weniger Kaffee!** Drink less coffee.
+- **Meine Katze schläft weniger als drei Stunden pro Nacht.** My cat sleeps less than three hours per night.
+- **Schläfst du besser im Wald oder im Bett?** Do you sleep better in the forest or in bed?
+- **Du schläfst nicht, denn du trinkst acht Tassen Kaffee.** You don't sleep because you drink eight cups of coffee.
+- **Meine Großeltern wollen heute Nacht den Mond sehen.** My grandparents want to see the moon tonight.
+- **Er trinkt drei Tassen Kaffee, aber er schläft gut.** He drinks three cups of coffee but he sleeps well.
+- **Mein Mann schläft besser im Urlaub.** My husband sleeps better on vacation.
+- **Wir arbeiten heute Nacht bis Mitternacht.** We are working tonight until midnight.
+- **Wir können heute Nacht den Mond sehen.** We can see the moon tonight.
+- **Heute Nacht ist der Mond so schön.** Tonight, the moon is so beautiful.
+- **Die Nachbarn wollen heute Abend eine Party machen.** The neighbours want to have a party tonight.
+- **Unsere Nachbarn sind nett, aber sie schlafen nie.** Our neighbours are nice, but they never sleep.
+- **Ja, ich kann zu Hause besser schlafen.** Yes, I can sleep better at home.
+- **Trinkst du nachts immer vier Tassen Kaffee?** Do you always drink four cups of coffee at night?
+- **Es ist Mitternacht und ich muss ins Bett gehen.** It is midnight and I have to go to bed.
+- **Warum schlafst du im moment so wenig?** Why are you sleeping so little at the moment
+- **Oh nein! ich kann nicht mein Fahrrad finden** Oh no, I can't find my bicycle!
+- **Trinkst du nachts immer vier Tassen Kaffee** Do you always drink four cups of coffee at night?
+- **Unser Baby kann noch kein Fahrrad fahren** Our baby still can't ride a bicycle
+- **Ich mochte mein Motorrad fahren, aber es ist zu kalt** I want to ride my motorcycle, but it is too cold.
+- **Wie viele Kilometer laufst du heute?** How many kilometers are you running today?
+- **Ich schlafe nur am wochenende bis mittag** I only slee until noon on the weekends
+- **Mein hund schlaft gut aber ich schlafe schlect** My dog sleeps well, but I sleep badly
+- **Ich schlafe nicht, denn ich bin sehr aufgeregt** I am not sleeping because I am very excited!
