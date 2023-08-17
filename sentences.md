@@ -1,39 +1,60 @@
 
 - Danke, und hier ist Ihr Kassenzettel.: "Thank you, and here is your receipt."
+- Der Badeanzug ist schön, denn er ist lila.: "The swimsuit is beautiful because it is purple."
 - Die Nachbarn wollen heute Abend eine Party machen: The neighbors want to have a party tonight.
 - Die Sonne scheint hier immer und es ist zu heiß: The sun always shines here and it is too hot.
+- Die Sonne scheint, ich will nicht arbeiten!: "The sun is shining, I don't want to work!"
 - Die nächste Station ist München.: The next station is Munich.
 - Du schläfst nicht, denn du trinkst acht Tassen Kaffee.: You don't sleep because you drink eight cups of coffee.
+- Er hat Turnschuhe, denn er läuft gern.: "He has sneakers because he likes running."
 - Er trinkt drei Tassen Kaffee, aber er schläft gut.: He drinks three cups of coffee but he sleeps well.
 - Es ist Mitternacht und ich muss ins Bett gehen.: It is midnight and I have to go to bed.
+- Essen deine Eltern gern Kuchen oder ist er zu süß?: Do your parents like to eat cake or is it too sweet for them?
 - Fünfunddreißig packungen sind zu viel!: "Thirty-five packs are too much!"
 - Gehst du gleich in den Supermarkt?: Are you going to the supermarket shortly?
+- Gehst du in den Blumenladen? Wie viel kosten die Blumen im Blumenladen?: "Do you go to the flower shop? How much do the flowers cost in the flower shop?"
+- Haben wir wirklich hundert Gurken im Garten?: "Do we really have a hundred cucumbers in the garden?"
 - Heute Nacht ist der Mond so schön.: Tonight, the moon is so beautiful.
+- Ich brauche Tomaten, ich gehe gleich in den Bioladen.: "I need tomatoes, I'm going to the organic store right away."
 - Ich brauche keine Tute. Ich kann den Kassenzettel nicht finden: "I don't need a bag. I can't find the receipt."
 - Ich habe Hunger, kannst du gleich eine Pizza bestellen?: "I'm hungry, can you order a pizza right away?"
 - Ich laufe im November einen Marathon.: I am running a marathon in November.
+- Ich laufe langsam, aber du läufst zu schnell.: "I am running slowly, but you are running too fast."
 - Ich mochte mein Motorrad fahren, aber es ist zu kalt: I want to ride my motorcycle, but it is too cold.
+- Ich muss noch unsere Kleidung waschen.: "I still have to wash our clothes."
 - Ich möchte das Meer sehen!: "I want to see the sea!"
 - Ich schlafe nicht, denn ich bin sehr aufgeregt: I am not sleeping because I am very excited!
 - Ich schlafe nicht, denn ich bin sehr aufgeregt:: "I am not sleeping because I am very excited."
 - Ich schlafe nur am wochenende bis mittag: I only slee until noon on the weekends
+- Ich schwimme, ich fahre Fahrrad und ich laufe.: "I swim, I ride a bicycle, and I run."
+- Ich trage immer diese Jacke. Sie ist warm und schick. Aber in Mallorca ist es sehr heiß und ich brauche keine Jacke dort.: "I always wear this jacket. It is warm and chic. But in Mallorca, it is very hot and I don't need a jacket there."
+- Ja, ich brauche Ihre hilfe!: "Yes, I need your help!"
 - Ja, ich habe eine Frage für Sie.: Yes, I have a question for you.
 - Ja, ich kann zu Hause besser schlafen.: Yes, I can sleep better at home.
+- Läufst du im November einen Marathon?: Are you running a marathon in November?
+- Läufst du jeden Tag zehn Kilometer?: Do you run ten kilometers every day?
 - Mach Urlaub in Amerika, es ist schön dort.: Go on vacation in America, it is beautiful there.
+- Mach Urlaub in Mallorca, der Strand ist schön!: Go on vacation in Mallorca, the beach is beautiful!
 - Magst du diesen Hut für deinen Urlaub?: Do you like this hat for your vacation?
 - Mein Mann schläft besser im Urlaub.: My husband sleeps better on vacation.
+- Mein Sohn trinkt jeden Morgen Apfelsaft.: "My son drinks apple juice every morning."
 - Mein hund schlaft gut aber ich schlafe schlect: "My dog sleeps well but I sleep poorly."
 - Meine Frau braucht eine Gurke für den Salat: "My wife needs a cucumber for the salad."
 - Meine Großeltern wollen heute Nacht den Mond sehen.: My grandparents want to see the moon tonight.
+- Meine Katze schläft gern den ganzen Tag. Sie ist immer müde.: "My cat likes to sleep the whole day. She is always tired."
 - Meine Katze schläft weniger als drei Stunden pro Nacht.: My cat sleeps less than three hours per night.
 - Oh nein! ich kann nicht mein Fahrrad finden: "Oh no! I can't find my bicycle."
+- Oh nein, die Koffer sind jetzt voll.: "Oh no, the suitcases are full now."
+- Passt deine Kleidung noch, oder gehst du ins Kaufhaus?: Does your clothing still fit, or are you going to the department store?
 - Schläfst du besser im Wald oder im Bett?: Do you sleep better in the forest or in bed?
 - Sind die Koffer schon voll?: Are the suitcases already full?
+- Sprechen die Leute in Mallorca Deutsch?: Do people in Mallorca speak German?
 - Trink weniger Kaffee!: Drink less coffee.
 - Trinkst du nachts immer vier Tassen Kaffee: Do you always drink four cups of coffee at night?
 - Trinkst du nachts immer vier Tassen Kaffee?: Do you always drink four cups of coffee at night?
 - Unser Baby kann noch kein Fahrrad fahren: Our baby still can't ride a bicycle
 - Unsere Nachbarn sind nett, aber sie schlafen nie.: Our neighbours are nice, but they never sleep.
+- Warum brauchst du für die Pizza eine orange?: "Why do you need an orange for the pizza?"
 - Warum schlafst du im moment so wenig?: Why are you sleeping so little at the moment
 - Welchen Badeanzug möchtest du kaufen?: Which swimsuit would you like to buy?
 - Wie kannst du weniger als sechs Stunden schlafen?: How can you sleep less than six hours?
