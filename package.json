@@ -1,0 +1,22 @@
+{
+  "name": "german-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addEntry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlacho/german-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidlacho/german-learning/issues"
+  },
+  "homepage": "https://github.com/davidlacho/german-learning#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
