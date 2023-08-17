@@ -1,10 +1,13 @@
 
+- Danke für Ihre Hilfe: "Thank you for your help."
 - Danke, und hier ist Ihr Kassenzettel.: "Thank you, and here is your receipt."
 - Der Badeanzug ist schön, denn er ist lila.: "The swimsuit is beautiful because it is purple."
 - Die Nachbarn wollen heute Abend eine Party machen: The neighbors want to have a party tonight.
 - Die Sonne scheint hier immer und es ist zu heiß: The sun always shines here and it is too hot.
 - Die Sonne scheint, ich will nicht arbeiten!: "The sun is shining, I don't want to work!"
 - Die nächste Station ist München.: The next station is Munich.
+- Du musst keine Geschenke: "You don't have to bring any gifts."
+- Du musst: "You must."
 - Du schläfst nicht, denn du trinkst acht Tassen Kaffee.: You don't sleep because you drink eight cups of coffee.
 - Er hat Turnschuhe, denn er läuft gern.: "He has sneakers because he likes running."
 - Er trinkt drei Tassen Kaffee, aber er schläft gut.: He drinks three cups of coffee but he sleeps well.
@@ -16,8 +19,13 @@
 - Haben wir wirklich hundert Gurken im Garten?: "Do we really have a hundred cucumbers in the garden?"
 - Heute Nacht ist der Mond so schön.: Tonight, the moon is so beautiful.
 - Ich brauche Tomaten, ich gehe gleich in den Bioladen.: "I need tomatoes, I'm going to the organic store right away."
+- Ich brauche Tomaten: "I need tomatoes."
 - Ich brauche keine Tute. Ich kann den Kassenzettel nicht finden: "I don't need a bag. I can't find the receipt."
+- Ich brauche: "I need."
+- Ich bringe Schokolade: "I bring chocolate."
 - Ich habe Hunger, kannst du gleich eine Pizza bestellen?: "I'm hungry, can you order a pizza right away?"
+- Ich hole bald: "I'll be there soon."
+- Ich hole meine Mutter ab: "I pick up my mother."
 - Ich laufe im November einen Marathon.: I am running a marathon in November.
 - Ich laufe langsam, aber du läufst zu schnell.: "I am running slowly, but you are running too fast."
 - Ich mochte mein Motorrad fahren, aber es ist zu kalt: I want to ride my motorcycle, but it is too cold.
@@ -31,6 +39,8 @@
 - Ja, ich brauche Ihre hilfe!: "Yes, I need your help!"
 - Ja, ich habe eine Frage für Sie.: Yes, I have a question for you.
 - Ja, ich kann zu Hause besser schlafen.: Yes, I can sleep better at home.
+- Kauf Kartoffeln und Eis, bitte: Buy potatoes and ice cream, please.
+- Luftballons mitbringen: "Bring balloons."
 - Läufst du im November einen Marathon?: Are you running a marathon in November?
 - Läufst du jeden Tag zehn Kilometer?: Do you run ten kilometers every day?
 - Mach Urlaub in Amerika, es ist schön dort.: Go on vacation in America, it is beautiful there.
@@ -56,7 +66,10 @@
 - Unsere Nachbarn sind nett, aber sie schlafen nie.: Our neighbours are nice, but they never sleep.
 - Warum brauchst du für die Pizza eine orange?: "Why do you need an orange for the pizza?"
 - Warum schlafst du im moment so wenig?: Why are you sleeping so little at the moment
+- Was bringst du: "What are you bringing?"
 - Welchen Badeanzug möchtest du kaufen?: Which swimsuit would you like to buy?
+- Wen holst du jetzt ab?: Who are you picking up now?
+- Wer bringt den Kuchen mit?: Who is bringing the cake?
 - Wie kannst du weniger als sechs Stunden schlafen?: How can you sleep less than six hours?
 - Wie viele Kilometer laufst du heute? How many kilometers are you running today?
 - Wir arbeiten heute Nacht bis Mitternacht.: "We are working tonight until midnight."
@@ -64,3 +77,8 @@
 - Wir arbeiten heute Nacht bis Mitternacht.: We are working tonight until midnight.
 - Wir können heute Nacht den Mond sehen: "We can see the moon tonight."
 - Wir machen wieder in Deutschland Urlaub.: "We are going on vacation in Germany again."
+- deine Eltern ab: 
+- ich gehe gleich: "I am leaving soon."
+- in den Bioladen: "in the organic store"
+- vier Bananen: "Four bananas."
+- zur Party mit?: "to the party with?"
