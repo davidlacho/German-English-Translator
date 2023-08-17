@@ -1,9 +1,12 @@
 
+- Danke, und hier ist Ihr Kassenzettel.: "Thank you, and here is your receipt."
 - Die Nachbarn wollen heute Abend eine Party machen: The neighbors want to have a party tonight.
+- Die Sonne scheint hier immer und es ist zu heiß: The sun always shines here and it is too hot.
 - Die nächste Station ist München.: The next station is Munich.
 - Du schläfst nicht, denn du trinkst acht Tassen Kaffee.: You don't sleep because you drink eight cups of coffee.
 - Er trinkt drei Tassen Kaffee, aber er schläft gut.: He drinks three cups of coffee but he sleeps well.
 - Es ist Mitternacht und ich muss ins Bett gehen.: It is midnight and I have to go to bed.
+- Fünfunddreißig packungen sind zu viel!: "Thirty-five packs are too much!"
 - Gehst du gleich in den Supermarkt?: Are you going to the supermarket shortly?
 - Heute Nacht ist der Mond so schön.: Tonight, the moon is so beautiful.
 - Ich brauche keine Tute. Ich kann den Kassenzettel nicht finden: "I don't need a bag. I can't find the receipt."
@@ -16,8 +19,11 @@
 - Ich schlafe nur am wochenende bis mittag: I only slee until noon on the weekends
 - Ja, ich habe eine Frage für Sie.: Yes, I have a question for you.
 - Ja, ich kann zu Hause besser schlafen.: Yes, I can sleep better at home.
+- Mach Urlaub in Amerika, es ist schön dort.: Go on vacation in America, it is beautiful there.
+- Magst du diesen Hut für deinen Urlaub?: Do you like this hat for your vacation?
 - Mein Mann schläft besser im Urlaub.: My husband sleeps better on vacation.
 - Mein hund schlaft gut aber ich schlafe schlect: "My dog sleeps well but I sleep poorly."
+- Meine Frau braucht eine Gurke für den Salat: "My wife needs a cucumber for the salad."
 - Meine Großeltern wollen heute Nacht den Mond sehen.: My grandparents want to see the moon tonight.
 - Meine Katze schläft weniger als drei Stunden pro Nacht.: My cat sleeps less than three hours per night.
 - Oh nein! ich kann nicht mein Fahrrad finden: "Oh no! I can't find my bicycle."
@@ -32,5 +38,8 @@
 - Welchen Badeanzug möchtest du kaufen?: Which swimsuit would you like to buy?
 - Wie kannst du weniger als sechs Stunden schlafen?: How can you sleep less than six hours?
 - Wie viele Kilometer laufst du heute? How many kilometers are you running today?
+- Wir arbeiten heute Nacht bis Mitternacht.: "We are working tonight until midnight."
+- Wir arbeiten heute Nacht bis Mitternacht.: "We are working until midnight tonight."
 - Wir arbeiten heute Nacht bis Mitternacht.: We are working tonight until midnight.
 - Wir können heute Nacht den Mond sehen: "We can see the moon tonight."
+- Wir machen wieder in Deutschland Urlaub.: "We are going on vacation in Germany again."
