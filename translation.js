@@ -62,13 +62,13 @@ async function addOrUpdateEntry(germanEntry, choice, finalTranslation) {
       ''
     )}`;
   } else {
-    entry = `- ${germanEntry}: ${finalTranslation.translation} (${finalTranslation.category}`;
     if (finalTranslation.gender) {
       germanEntry =
         getArticleByGender(finalTranslation.gender) + ' ' + germanEntry;
-      entry += `, ${finalTranslation.gender}`;
+      entry = `- ${germanEntry}: ${finalTranslation.translation} (${finalTranslation.category}, ${finalTranslation.gender})`;
+    } else {
+      entry = `- ${germanEntry}: ${finalTranslation.translation} (${finalTranslation.category})`;
     }
-    entry += `)`;
   }
 
   currentEntries.push(entry);
@@ -109,9 +109,6 @@ async function checkAndAddMissingWords(germanSentence) {
           continue;
         }
 
-        console.log(
-          `Suggested Translation for "${word}": ${englishTranslation.translation}`
-        );
         const isCorrect = await askQuestion(
           'Is the above translation correct? (yes/no): '
         );
@@ -186,7 +183,7 @@ async function fetchTranslation(text, isSentence = false) {
       .replace(/["]/g, '')
       .trim();
 
-    console.log('OpenAI Response:', content); // Log the response
+    console.log(`Suggested Translation for ${text}:`, content); // Log the response
 
     if (isSentence) {
       return {
@@ -235,7 +232,6 @@ async function mainLoop() {
       continue;
     }
 
-    console.log(`Suggested Translation: ${englishTranslation.translation}`);
     const isCorrect = await askQuestion(
       'Is the above translation correct? (yes/no): '
     );
