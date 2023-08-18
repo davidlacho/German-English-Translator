@@ -38,36 +38,37 @@ async function addOrUpdateEntry(germanEntry, choice, finalTranslation) {
   );
 
   const currentEntries = fs.readFileSync(targetPath, 'utf8').split('\n');
-  const fullEntry = `- ${germanEntry}: ${finalTranslation.translation}`;
-  if (currentEntries.includes(fullEntry)) {
+  let entry;
+  if (choice === 'sentence') {
+    entry = `- ${germanEntry.trim()}: ${finalTranslation.translation
+      .trim()
+      .replace(/["]/g, '')}`;
+  } else {
+    let details = `${finalTranslation.translation.trim()} (${finalTranslation.category.trim()}`;
+    if (finalTranslation.gender) {
+      germanEntry = `${getArticleByGender(
+        finalTranslation.gender
+      )} ${germanEntry.trim()}`;
+      details += `, ${finalTranslation.gender.trim()}`;
+    }
+    details += `)`;
+    entry = `- ${germanEntry.trim()}: ${details}`;
+  }
+
+  // Checking if this entry already exists
+  if (currentEntries.includes(entry)) {
     const overwrite = await askQuestion(
-      `The ${choice} ${germanEntry} already exists. Do you want to overwrite it? (yes/no): `
+      `The ${choice} "${germanEntry}" already exists. Do you want to overwrite it? (yes/no): `
     );
     if (overwrite.toLowerCase() !== 'yes') {
       console.log('Skipping...');
       return;
     }
     const oldEntryIndex = currentEntries.findIndex((e) =>
-      e.startsWith(`- ${germanEntry}`)
+      e.startsWith(`- ${germanEntry.trim()}:`)
     );
     if (oldEntryIndex !== -1) {
       currentEntries.splice(oldEntryIndex, 1);
-    }
-  }
-
-  let entry;
-  if (choice === 'sentence') {
-    entry = `- ${germanEntry}: ${finalTranslation.translation.replace(
-      /["]/g,
-      ''
-    )}`;
-  } else {
-    if (finalTranslation.gender) {
-      germanEntry =
-        getArticleByGender(finalTranslation.gender) + ' ' + germanEntry;
-      entry = `- ${germanEntry}: ${finalTranslation.translation} (${finalTranslation.category}, ${finalTranslation.gender})`;
-    } else {
-      entry = `- ${germanEntry}: ${finalTranslation.translation} (${finalTranslation.category})`;
     }
   }
 
@@ -222,14 +223,37 @@ async function mainLoop() {
     }
 
     const germanEntry = await askQuestion(`Enter the German ${choice}: `);
-    const englishTranslation = await fetchTranslation(
-      germanEntry,
-      choice === 'sentence'
+
+    const targetPath = path.join(
+      __dirname,
+      choice === 'sentence' ? 'sentences.md' : 'wordlist.md'
+    );
+    const currentEntries = fs.readFileSync(targetPath, 'utf8').split('\n');
+    const existingEntry = currentEntries.find((e) =>
+      e.startsWith(`- ${germanEntry.trim()}:`)
     );
 
-    if (!englishTranslation) {
-      console.error('Failed to fetch translation.');
-      continue;
+    let englishTranslation;
+
+    if (existingEntry) {
+      console.log(`The ${choice} "${germanEntry}" already exists.`);
+      const overwrite = await askQuestion(
+        'Do you want to overwrite it? (yes/no): '
+      );
+      if (overwrite.toLowerCase() !== 'yes') {
+        console.log('Skipping...');
+        continue;
+      }
+    } else {
+      englishTranslation = await fetchTranslation(
+        germanEntry,
+        choice === 'sentence'
+      );
+
+      if (!englishTranslation) {
+        console.error('Failed to fetch translation.');
+        continue;
+      }
     }
 
     const isCorrect = await askQuestion(

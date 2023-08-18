@@ -1,11 +1,14 @@
+
 - Anna, mach Urlaub in New York! Du machst nie in Amerika Urlaub.: Anna, go on vacation in New York! You never go on vacation in America.
 - Danke für Ihre Hilfe: "Thank you for your help."
 - Danke, und hier ist Ihr Kassenzettel.: "Thank you, and here is your receipt."
 - Das Meer ist kalt, aber der Strand ist schön.: The sea is cold, but the beach is beautiful.
 - Das Meer ist warm und schön in Mallorca.: The sea is warm and beautiful in Mallorca.
 - Der Badeanzug ist schön, denn er ist lila.: "The swimsuit is beautiful because it is purple."
+- Der badeanzug ist nicht zu klein, er ist perfekt.: The swimsuit is not too small, it is perfect.
 - Die Biogurken sind rechts.: "The organic cucumbers are on the right."
 - Die Nachbarn wollen heute Abend eine Party machen: The neighbors want to have a party tonight.
+- Die Sonne ist heiß, ich brauche einen Hut.: The sun is hot, I need a hat.
 - Die Sonne scheint hier immer und es ist zu heiß: The sun always shines here and it is too hot.
 - Die Sonne scheint nicht immer in Kanada: The sun doesn't always shine in Canada.
 - Die Sonne scheint und das Meer ist schön.: "The sun is shining and the sea is beautiful."
@@ -19,8 +22,10 @@
 - Du reist am Dienstag nach Paris, was machst du dort?: "You are traveling to Paris on Tuesday, what are you doing there?"
 - Du schläfst nicht, denn du trinkst acht Tassen Kaffee.: You don't sleep because you drink eight cups of coffee.
 - Du trinkst kein Wasser, richtig? Tim, trink jeden Tag Wasser in Mallorca!: You don't drink any water, right? Tim, drink water every day in Mallorca!
+- Du trägst nie schicke Hemden!: You never wear fancy shirts!
 - Duo, du lernst immer Sprachen, mach Urlaub!: "Duo, you are always learning languages, take a vacation!"
 - Duo, du lernst immer Sprachen, mach Urlaub!: Duo, you are always learning languages, take a vacation!
+- Eddy, warum trägst du ein schickes Hemd?: Eddy, why are you wearing a fancy shirt?
 - Er hat Turnschuhe, denn er läuft gern.: "He has sneakers because he likes running."
 - Er trinkt drei Tassen Kaffee, aber er schläft gut.: He drinks three cups of coffee but he sleeps well.
 - Es ist Mitternacht und ich muss ins Bett gehen.: It is midnight and I have to go to bed.
@@ -29,7 +34,9 @@
 - Gehst du gleich in den Supermarkt?: Are you going to the supermarket shortly?
 - Gehst du in den Blumenladen? Wie viel kosten die Blumen im Blumenladen?: "Do you go to the flower shop? How much do the flowers cost in the flower shop?"
 - Haben wir wirklich hundert Gurken im Garten?: "Do we really have a hundred cucumbers in the garden?"
+- Hast du do you have Blumen für dein Date? Oder Schokolade?: Do you have flowers for your date? Or chocolate?
 - Heute Nacht ist der Mond so schön.: Tonight, the moon is so beautiful.
+- Ich I kann jetzt nichts kaufen! Ich komme zu spät!: I can't buy anything now! I am coming late!
 - Ich brauche Tomaten, ich gehe gleich in den Bioladen.: "I need tomatoes, I'm going to the organic store right away."
 - Ich brauche Tomaten, ich gehe gleich in den Bioladen: "I need tomatoes, I'm going to the organic store right away."
 - Ich brauche Tomaten: "I need tomatoes."
@@ -37,6 +44,8 @@
 - Ich brauche: "I need."
 - Ich bringe Schokolade: "I bring chocolate."
 - Ich habe Hunger, kannst du gleich eine Pizza bestellen?: "I'm hungry, can you order a pizza right away?"
+- Ich habe jetzt ein Date!: I have a date now!
+- Ich habe schöne Rosen.: I have beautiful roses.
 - Ich hole bald: "I'll be there soon."
 - Ich hole meine Mutter ab: "I pick up my mother."
 - Ich laufe im November einen Marathon.: I am running a marathon in November.
@@ -56,6 +65,7 @@
 - Ja, ich kann zu Hause besser schlafen.: Yes, I can sleep better at home.
 - Kauf Kartoffeln und Eis, bitte!: "Buy potatoes and ice cream, please!"
 - Kauf Kartoffeln und Eis, bitte: Buy potatoes and ice cream, please.
+- Kaufst du diesen Pullover?: Are you buying this sweater?
 - Luftballons mitbringen: "Bring balloons."
 - Läufst du im November einen Marathon?: Are you running a marathon in November?
 - Läufst du jeden Tag zehn Kilometer?: Do you run ten kilometers every day?
@@ -73,6 +83,8 @@
 - Meine Kleidung ist zu alt, ich kaufe neue Kleidung.: My clothing is too old, I am buying new clothing.
 - Oh nein! ich kann nicht mein Fahrrad finden: "Oh no! I can't find my bicycle."
 - Oh nein, die Koffer sind jetzt voll.: "Oh no, the suitcases are full now."
+- Oscar gibt Eddy Rosen aus seinem Garten.: Oscar gives Eddy roses from his garden.
+- Oscar ist in seinem Garten. Er sieht Eddy, seinen Arbeitskollegen.: Oscar is in his garden. He sees Eddy, his coworker.
 - Passt deine Kleidung noch, oder gehst du ins Kaufhaus?: Does your clothing still fit, or are you going to the department store?
 - Schläfst du besser im Wald oder im Bett?: Do you sleep better in the forest or in bed?
 - Sind die Koffer schon voll?: Are the suitcases already full?
@@ -85,6 +97,8 @@
 - Warum brauchst du für die Pizza eine orange?: "Why do you need an orange for the pizza?"
 - Warum schlafst du im moment so wenig?: Why are you sleeping so little at the moment
 - Was bringst du: "What are you bringing?"
+- Was kaufst du im Stadtzentrum?: What are you buying in the city center?
+- Welchen Badeanzug möchtest du für Mallorca kaufen?: Which swimsuit would you like to buy for Mallorca?
 - Welchen Badeanzug möchtest du kaufen?: Which swimsuit would you like to buy?
 - Wen holst du jetzt ab?: Who are you picking up now?
 - Wer bringt den Kuchen mit?: Who is bringing the cake?
