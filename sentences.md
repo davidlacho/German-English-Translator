@@ -1,14 +1,21 @@
 
 - Danke für Ihre Hilfe: "Thank you for your help."
 - Danke, und hier ist Ihr Kassenzettel.: "Thank you, and here is your receipt."
+- Das Meer ist warm und schön in Mallorca.: The sea is warm and beautiful in Mallorca. (undefined)
 - Der Badeanzug ist schön, denn er ist lila.: "The swimsuit is beautiful because it is purple."
+- Die Biogurken sind rechts.: "The organic cucumbers are on the right."
 - Die Nachbarn wollen heute Abend eine Party machen: The neighbors want to have a party tonight.
 - Die Sonne scheint hier immer und es ist zu heiß: The sun always shines here and it is too hot.
+- Die Sonne scheint und das Meer ist schön.: "The sun is shining and the sea is beautiful." (undefined)
 - Die Sonne scheint, ich will nicht arbeiten!: "The sun is shining, I don't want to work!"
 - Die nächste Station ist München.: The next station is Munich.
+- Du musst in den Supermarkt gehen.: "You have to go to the supermarket." (undefined)
+- Du musst in den Supermarkt gehen.: "You must go to the supermarket." (undefined)
 - Du musst keine Geschenke: "You don't have to bring any gifts."
 - Du musst: "You must."
+- Du reist am Dienstag nach Paris, was machst du dort?: "You are traveling to Paris on Tuesday, what are you doing there?" (undefined)
 - Du schläfst nicht, denn du trinkst acht Tassen Kaffee.: You don't sleep because you drink eight cups of coffee.
+- Duo, du lernst immer Sprachen, mach Urlaub!: "Duo, you are always learning languages, take a vacation!" (undefined)
 - Er hat Turnschuhe, denn er läuft gern.: "He has sneakers because he likes running."
 - Er trinkt drei Tassen Kaffee, aber er schläft gut.: He drinks three cups of coffee but he sleeps well.
 - Es ist Mitternacht und ich muss ins Bett gehen.: It is midnight and I have to go to bed.
@@ -19,6 +26,7 @@
 - Haben wir wirklich hundert Gurken im Garten?: "Do we really have a hundred cucumbers in the garden?"
 - Heute Nacht ist der Mond so schön.: Tonight, the moon is so beautiful.
 - Ich brauche Tomaten, ich gehe gleich in den Bioladen.: "I need tomatoes, I'm going to the organic store right away."
+- Ich brauche Tomaten, ich gehe gleich in den Bioladen: "I need tomatoes, I'm going to the organic store right away." (undefined)
 - Ich brauche Tomaten: "I need tomatoes."
 - Ich brauche keine Tute. Ich kann den Kassenzettel nicht finden: "I don't need a bag. I can't find the receipt."
 - Ich brauche: "I need."
@@ -28,6 +36,7 @@
 - Ich hole meine Mutter ab: "I pick up my mother."
 - Ich laufe im November einen Marathon.: I am running a marathon in November.
 - Ich laufe langsam, aber du läufst zu schnell.: "I am running slowly, but you are running too fast."
+- Ich mache Urlaub in Mallorca.: "I am going on vacation in Mallorca." (undefined)
 - Ich mochte mein Motorrad fahren, aber es ist zu kalt: I want to ride my motorcycle, but it is too cold.
 - Ich muss noch unsere Kleidung waschen.: "I still have to wash our clothes."
 - Ich möchte das Meer sehen!: "I want to see the sea!"
@@ -44,6 +53,7 @@
 - Läufst du im November einen Marathon?: Are you running a marathon in November?
 - Läufst du jeden Tag zehn Kilometer?: Do you run ten kilometers every day?
 - Mach Urlaub in Amerika, es ist schön dort.: Go on vacation in America, it is beautiful there.
+- Mach Urlaub in Amerika, es ist schön dort.: Go on vacation in America, it's beautiful there. (undefined)
 - Mach Urlaub in Mallorca, der Strand ist schön!: Go on vacation in Mallorca, the beach is beautiful!
 - Magst du diesen Hut für deinen Urlaub?: Do you like this hat for your vacation?
 - Mein Mann schläft besser im Urlaub.: My husband sleeps better on vacation.
