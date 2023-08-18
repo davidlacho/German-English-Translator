@@ -38,9 +38,8 @@ async function addOrUpdateEntry(germanEntry, choice, finalTranslation) {
   );
 
   const currentEntries = fs.readFileSync(targetPath, 'utf8').split('\n');
-  const entriesSet = new Set(currentEntries.map((e) => e.split(':')[0].trim()));
-
-  if (entriesSet.has(germanEntry)) {
+  const fullEntry = `- ${germanEntry}: ${finalTranslation.translation}`;
+  if (currentEntries.includes(fullEntry)) {
     const overwrite = await askQuestion(
       `The ${choice} ${germanEntry} already exists. Do you want to overwrite it? (yes/no): `
     );
@@ -56,15 +55,21 @@ async function addOrUpdateEntry(germanEntry, choice, finalTranslation) {
     }
   }
 
-  let entry = `- ${germanEntry}: ${finalTranslation.translation} (${finalTranslation.category}`;
-  if (finalTranslation.gender) {
-    if (choice !== 'sentence') {
+  let entry;
+  if (choice === 'sentence') {
+    entry = `- ${germanEntry}: ${finalTranslation.translation.replace(
+      /["]/g,
+      ''
+    )}`;
+  } else {
+    entry = `- ${germanEntry}: ${finalTranslation.translation} (${finalTranslation.category}`;
+    if (finalTranslation.gender) {
       germanEntry =
         getArticleByGender(finalTranslation.gender) + ' ' + germanEntry;
+      entry += `, ${finalTranslation.gender}`;
     }
-    entry += `, ${finalTranslation.gender}`;
+    entry += `)`;
   }
-  entry += `)`;
 
   currentEntries.push(entry);
   fs.writeFileSync(targetPath, [...new Set(currentEntries)].sort().join('\n'));
@@ -80,13 +85,18 @@ async function checkAndAddMissingWords(germanSentence) {
   const existingEntriesMap = currentEntries.reduce((acc, entryLine) => {
     const match = entryLine.match(/-\s+(.*?):/);
     if (match && match[1]) {
-      acc[match[1].trim().toLowerCase()] = true; // Using toLowerCase() to make the comparison case-insensitive
+      const wordWithoutArticle = match[1]
+        .replace(/^(der|die|das)\s/, '')
+        .trim();
+      acc[wordWithoutArticle.toLowerCase()] = true; // Handling words without articles
+      acc[match[1].trim().toLowerCase()] = true; // Handling words with articles
     }
     return acc;
   }, {});
 
   for (const word of words) {
-    if (!existingEntriesMap[word.toLowerCase()]) {
+    const wordWithoutArticle = word.replace(/^(der|die|das)\s/, '').trim();
+    if (!existingEntriesMap[wordWithoutArticle.toLowerCase()]) {
       const shouldAdd = await askQuestion(
         `The word "${word}" is missing from the wordlist. Do you want to add it? (yes/no): `
       );
@@ -172,7 +182,9 @@ async function fetchTranslation(text, isSentence = false) {
       }
     );
 
-    const content = response.data.choices[0].message.content.trim();
+    const content = response.data.choices[0].message.content
+      .replace(/["]/g, '')
+      .trim();
 
     console.log('OpenAI Response:', content); // Log the response
 

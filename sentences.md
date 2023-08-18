@@ -1,11 +1,13 @@
-
+- Anna, mach Urlaub in New York! Du machst nie in Amerika Urlaub.: Anna, go on vacation in New York! You never go on vacation in America.
 - Danke für Ihre Hilfe: "Thank you for your help."
 - Danke, und hier ist Ihr Kassenzettel.: "Thank you, and here is your receipt."
+- Das Meer ist kalt, aber der Strand ist schön.: The sea is cold, but the beach is beautiful. (undefined)
 - Das Meer ist warm und schön in Mallorca.: The sea is warm and beautiful in Mallorca. (undefined)
 - Der Badeanzug ist schön, denn er ist lila.: "The swimsuit is beautiful because it is purple."
 - Die Biogurken sind rechts.: "The organic cucumbers are on the right."
 - Die Nachbarn wollen heute Abend eine Party machen: The neighbors want to have a party tonight.
 - Die Sonne scheint hier immer und es ist zu heiß: The sun always shines here and it is too hot.
+- Die Sonne scheint nicht immer in Kanada: The sun doesn't always shine in Canada.
 - Die Sonne scheint und das Meer ist schön.: "The sun is shining and the sea is beautiful." (undefined)
 - Die Sonne scheint, ich will nicht arbeiten!: "The sun is shining, I don't want to work!"
 - Die nächste Station ist München.: The next station is Munich.
@@ -15,7 +17,9 @@
 - Du musst: "You must."
 - Du reist am Dienstag nach Paris, was machst du dort?: "You are traveling to Paris on Tuesday, what are you doing there?" (undefined)
 - Du schläfst nicht, denn du trinkst acht Tassen Kaffee.: You don't sleep because you drink eight cups of coffee.
+- Du trinkst kein Wasser, richtig? Tim, trink jeden Tag Wasser in Mallorca!: You don't drink any water, right? Tim, drink water every day in Mallorca!
 - Duo, du lernst immer Sprachen, mach Urlaub!: "Duo, you are always learning languages, take a vacation!" (undefined)
+- Duo, du lernst immer Sprachen, mach Urlaub!: Duo, you are always learning languages, take a vacation!
 - Er hat Turnschuhe, denn er läuft gern.: "He has sneakers because he likes running."
 - Er trinkt drei Tassen Kaffee, aber er schläft gut.: He drinks three cups of coffee but he sleeps well.
 - Es ist Mitternacht und ich muss ins Bett gehen.: It is midnight and I have to go to bed.
@@ -40,6 +44,7 @@
 - Ich mochte mein Motorrad fahren, aber es ist zu kalt: I want to ride my motorcycle, but it is too cold.
 - Ich muss noch unsere Kleidung waschen.: "I still have to wash our clothes."
 - Ich möchte das Meer sehen!: "I want to see the sea!"
+- Ich reise gern nach Österreich, es ist wirklich schön dort: I enjoy traveling to Austria, it is really beautiful there.
 - Ich schlafe nicht, denn ich bin sehr aufgeregt: I am not sleeping because I am very excited!
 - Ich schlafe nur am wochenende bis mittag: I only slee until noon on the weekends
 - Ich schwimme, ich fahre Fahrrad und ich laufe.: "I swim, I ride a bicycle, and I run."
