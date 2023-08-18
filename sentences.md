@@ -2,6 +2,7 @@
 - Anna, mach Urlaub in New York! Du machst nie in Amerika Urlaub.: Anna, go on vacation in New York! You never go on vacation in America.
 - Danke für Ihre Hilfe: "Thank you for your help."
 - Danke, und hier ist Ihr Kassenzettel.: "Thank you, and here is your receipt."
+- Dann nimm take diese Rosen.: Then take these roses.
 - Das Meer ist kalt, aber der Strand ist schön.: The sea is cold, but the beach is beautiful.
 - Das Meer ist warm und schön in Mallorca.: The sea is warm and beautiful in Mallorca.
 - Der Badeanzug ist schön, denn er ist lila.: "The swimsuit is beautiful because it is purple."
@@ -14,6 +15,7 @@
 - Die Sonne scheint und das Meer ist schön.: "The sun is shining and the sea is beautiful."
 - Die Sonne scheint, ich will nicht arbeiten!: "The sun is shining, I don't want to work!"
 - Die nächste Station ist München.: The next station is Munich.
+- Du bist total rot: You are totally red.
 - Du musst auf jeden Fall diesen Hut kaufen!: You must definitely buy this hat!
 - Du musst in den Supermarkt gehen.: "You have to go to the supermarket.
 - Du musst in den Supermarkt gehen.: "You must go to the supermarket."
@@ -25,6 +27,7 @@
 - Du trägst nie schicke Hemden!: You never wear fancy shirts!
 - Duo, du lernst immer Sprachen, mach Urlaub!: "Duo, you are always learning languages, take a vacation!"
 - Duo, du lernst immer Sprachen, mach Urlaub!: Duo, you are always learning languages, take a vacation!
+- Eddy beginnt zu niesen: Eddy begins to sneeze.
 - Eddy, warum trägst du ein schickes Hemd?: Eddy, why are you wearing a fancy shirt?
 - Er hat Turnschuhe, denn er läuft gern.: "He has sneakers because he likes running."
 - Er trinkt drei Tassen Kaffee, aber er schläft gut.: He drinks three cups of coffee but he sleeps well.
@@ -44,6 +47,7 @@
 - Ich brauche: "I need."
 - Ich bringe Schokolade: "I bring chocolate."
 - Ich habe Hunger, kannst du gleich eine Pizza bestellen?: "I'm hungry, can you order a pizza right away?"
+- Ich habe eine Rosenallergie!: I have a rose allergy!
 - Ich habe jetzt ein Date!: I have a date now!
 - Ich habe schöne Rosen.: I have beautiful roses.
 - Ich hole bald: "I'll be there soon."
@@ -94,6 +98,7 @@
 - Trinkst du nachts immer vier Tassen Kaffee?: Do you always drink four cups of coffee at night?
 - Unser Baby kann noch kein Fahrrad fahren: Our baby still can't ride a bicycle
 - Unsere Nachbarn sind nett, aber sie schlafen nie.: Our neighbours are nice, but they never sleep.
+- Viel Spaß have fun bei deinem Date!: Have fun on your date!
 - Warum brauchst du für die Pizza eine orange?: "Why do you need an orange for the pizza?"
 - Warum schlafst du im moment so wenig?: Why are you sleeping so little at the moment
 - Was bringst du: "What are you bringing?"
