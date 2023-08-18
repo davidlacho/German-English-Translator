@@ -10,6 +10,91 @@ const rl = readline.createInterface({
 
 let openaiAPIKey = 'YOUR_OPENAI_API_KEY'; // initialize with your key if you have one
 
+// Extracts individual words from a sentence
+function extractWords(sentence) {
+  // Removing punctuation for each word and filtering out empty words.
+  return sentence
+    .split(/\s+/)
+    .map((word) => word.replace(/[.,?!;()]/g, ''))
+    .filter(Boolean);
+}
+
+async function checkAndAddMissingWords(germanSentence) {
+  const words = extractWords(germanSentence);
+
+  for (const word of words) {
+    const targetPath = path.join(__dirname, 'wordlist.md');
+    const currentEntries = fs.readFileSync(targetPath, 'utf8').split('\n');
+    const entriesSet = new Set(
+      currentEntries.map((e) =>
+        e
+          .split(':')[0]
+          .trim()
+          .replace(/^der|^die|^das/, '')
+          .trim()
+      ) // Strip German articles for comparison
+    );
+
+    if (!entriesSet.has(word)) {
+      const shouldAdd = await askQuestion(
+        `The word "${word}" is missing from the wordlist. Do you want to add it? (yes/no): `
+      );
+
+      if (shouldAdd.toLowerCase() === 'yes') {
+        const englishTranslation = await fetchTranslation(word, false);
+
+        if (!englishTranslation) {
+          console.error('Failed to fetch translation for word:', word);
+          continue;
+        }
+
+        console.log(
+          `Suggested Translation for "${word}": ${englishTranslation.translation}`
+        );
+        const isCorrect = await askQuestion(
+          'Is the above translation correct? (yes/no): '
+        );
+
+        let finalTranslation = englishTranslation;
+        if (isCorrect.toLowerCase() !== 'yes') {
+          finalTranslation.translation = await askQuestion(
+            'Enter the correct English translation: '
+          );
+        }
+
+        let entry;
+        if (
+          finalTranslation.category.toLowerCase() === 'noun' &&
+          finalTranslation.gender
+        ) {
+          switch (finalTranslation.gender.toLowerCase()) {
+            case 'masculine':
+              entry = `- der ${word}: ${finalTranslation.translation} (${finalTranslation.category}, ${finalTranslation.gender})`;
+              break;
+            case 'feminine':
+              entry = `- die ${word}: ${finalTranslation.translation} (${finalTranslation.category}, ${finalTranslation.gender})`;
+              break;
+            case 'neutral':
+              entry = `- das ${word}: ${finalTranslation.translation} (${finalTranslation.category}, ${finalTranslation.gender})`;
+              break;
+            default:
+              entry = `- ${word}: ${finalTranslation.translation} (${finalTranslation.category}`;
+          }
+        } else {
+          entry = `- ${word}: ${finalTranslation.translation} (${finalTranslation.category})`;
+        }
+
+        if (!entriesSet.has(word)) {
+          currentEntries.push(entry);
+          const uniqueSortedEntries = [...new Set(currentEntries)].sort();
+          fs.writeFileSync(targetPath, uniqueSortedEntries.join('\n'));
+          console.log(`Word "${word}" added successfully!`);
+        }
+      }
+    }
+  }
+}
+
 async function fetchTranslation(text, isSentence = false) {
   try {
     const response = await axios.post(
@@ -148,6 +233,11 @@ async function mainLoop() {
       const uniqueSortedEntries = [...new Set(currentEntries)].sort();
       fs.writeFileSync(targetPath, uniqueSortedEntries.join('\n'));
       console.log(choice + ' added successfully!');
+    }
+
+    if (choice === 'sentence') {
+      // New code to check missing words
+      await checkAndAddMissingWords(germanEntry);
     }
   }
 }

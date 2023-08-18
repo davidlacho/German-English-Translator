@@ -32,13 +32,13 @@
 - Ich muss noch unsere Kleidung waschen.: "I still have to wash our clothes."
 - Ich möchte das Meer sehen!: "I want to see the sea!"
 - Ich schlafe nicht, denn ich bin sehr aufgeregt: I am not sleeping because I am very excited!
-- Ich schlafe nicht, denn ich bin sehr aufgeregt:: "I am not sleeping because I am very excited."
 - Ich schlafe nur am wochenende bis mittag: I only slee until noon on the weekends
 - Ich schwimme, ich fahre Fahrrad und ich laufe.: "I swim, I ride a bicycle, and I run."
 - Ich trage immer diese Jacke. Sie ist warm und schick. Aber in Mallorca ist es sehr heiß und ich brauche keine Jacke dort.: "I always wear this jacket. It is warm and chic. But in Mallorca, it is very hot and I don't need a jacket there."
 - Ja, ich brauche Ihre hilfe!: "Yes, I need your help!"
 - Ja, ich habe eine Frage für Sie.: Yes, I have a question for you.
 - Ja, ich kann zu Hause besser schlafen.: Yes, I can sleep better at home.
+- Kauf Kartoffeln und Eis, bitte!: "Buy potatoes and ice cream, please!"
 - Kauf Kartoffeln und Eis, bitte: Buy potatoes and ice cream, please.
 - Luftballons mitbringen: "Bring balloons."
 - Läufst du im November einen Marathon?: Are you running a marathon in November?
@@ -77,7 +77,7 @@
 - Wir arbeiten heute Nacht bis Mitternacht.: We are working tonight until midnight.
 - Wir können heute Nacht den Mond sehen: "We can see the moon tonight."
 - Wir machen wieder in Deutschland Urlaub.: "We are going on vacation in Germany again."
-- deine Eltern ab: 
+- deine Eltern ab:
 - ich gehe gleich: "I am leaving soon."
 - in den Bioladen: "in the organic store"
 - vier Bananen: "Four bananas."
