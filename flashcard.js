@@ -15,8 +15,21 @@ function cleanEntryPart(part) {
   return trimmed;
 }
 
-async function flashCard() {
-  const choice = Math.random() > 0.5 ? 'sentence' : 'word';
+async function chooseLearningCategory() {
+  const response = await askQuestion(
+    'What would you like to learn? (Enter "sentences", "words", or "both"): '
+  );
+  return response.toLowerCase();
+}
+
+async function flashCard(category) {
+  let choice;
+  if (category === 'both') {
+    choice = Math.random() > 0.5 ? 'sentence' : 'word';
+  } else {
+    choice = category;
+  }
+
   const targetPath =
     choice === 'sentence'
       ? path.join(__dirname, 'sentences.md')
@@ -70,8 +83,10 @@ async function flashCardLoop() {
  `);
   console.log('*******');
 
+  const category = await chooseLearningCategory();
+
   while (true) {
-    await flashCard();
+    await flashCard(category);
     console.log('*******\n');
     const continueResponse = await askQuestion(
       'type "quit" to quit, or hit enter to continue: \n'
